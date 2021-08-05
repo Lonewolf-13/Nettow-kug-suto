@@ -1,0 +1,5 @@
+[+] 192.168.1.1:21/TCP ftp Open
+[+] 192.168.1.1:22/TCP ssh Open
+[+] 192.168.1.1:23/TCP telnet Open
+[+] 192.168.1.1:80/TCP http Open
+[+] 192.168.1.1:100/TCP http Open
