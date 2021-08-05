@@ -14,7 +14,7 @@ This is a network scanning tool like nmap
 > Installation:
   
     $ apt-get install git
-    $ git clone https://github.com/Sohaib13002/Mortal-Test/
+    $ git clone https://github.com/Lonewolf-13/Nettow-kug-suto
     $ cd Nettowākugōsuto
     $ sudo chmod +x Nwkgōsuto.py
   
