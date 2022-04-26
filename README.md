@@ -1,6 +1,6 @@
 # Nettowkugsuto
 This is a network scanning tool like nmap 
-
+* This Bullshit Not Work D'ont use this tool shit 
 *This Script Can Scan:
 * Tcp Ports
 * Udp Ports  
